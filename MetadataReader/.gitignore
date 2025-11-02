@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/metadata_reader
+metadata_reader.so
+metadata_reader.dylib
+metadata_reader.dll
+metadata_reader.a
+metadata_reader.lib
+metadata_reader-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

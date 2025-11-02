@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"kosail"
+	],
+	"copyright": "Copyright © 2025, kosail in the korealm",
+	"description": "A minimal, file's dates metadata reader.",
+	"license": "MIT",
+	"name": "metadata_reader"
+}
